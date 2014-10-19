@@ -1,0 +1,25 @@
+Age,Gender,College_Enrollment,Estimate
+15-17 yrs,Males,Enrolled in public college or graduate school:,136
+18-24 yrs,Males,Enrolled in public college or graduate school:,19036
+25-34 yrs,Males,Enrolled in public college or graduate school:,7188
+35+ yrs ,Males,Enrolled in public college or graduate school:,3606
+15-17 yrs,Males,Enrolled in private college or graduate school:,0
+18-24 yrs,Males,Enrolled in private college or graduate school:,2926
+25-34 yrs,Males,Enrolled in private college or graduate school:,1699
+35+ yrs ,Males,Enrolled in private college or graduate school:,2126
+15-17 yrs,Males,Not enrolled in college or graduate school:,19283
+18-24 yrs,Males,Not enrolled in college or graduate school:,24634
+25-34 yrs,Males,Not enrolled in college or graduate school:,60322
+35+ yrs ,Males,Not enrolled in college or graduate school:,218674
+15-17 yrs,Females,Enrolled in public college or graduate school:,0
+18-24 yrs,Females,Enrolled in public college or graduate school:,19197
+25-34 yrs,Females,Enrolled in public college or graduate school:,8443
+35+ yrs ,Females,Enrolled in public college or graduate school:,7314
+15-17 yrs,Females,Enrolled in private college or graduate school:,0
+18-24 yrs,Females,Enrolled in private college or graduate school:,4580
+25-34 yrs,Females,Enrolled in private college or graduate school:,3605
+35+ yrs ,Females,Enrolled in private college or graduate school:,3260
+15-17 yrs,Females,Not enrolled in college or graduate school:,18863
+18-24 yrs,Females,Not enrolled in college or graduate school:,21032
+25-34 yrs,Females,Not enrolled in college or graduate school:,60872
+35+ yrs ,Females,Not enrolled in college or graduate school:,240897
